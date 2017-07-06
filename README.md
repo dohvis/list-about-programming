@@ -12,6 +12,8 @@
 - [ChatterBot](https://github.com/gunthercox/ChatterBot): ChatterBot is a machine learning, conversational dialog engine for creating chat bots.
 - [Deep-Learning-101](https://github.com/sjchoi86/Deep-Learning-101)
 - https://github.com/nlintz/TensorFlow-Tutorials
+- https://bitbucket.org/eunjeon/mecab-ko-lucene-analyzer/issues/8/elasticsearch-543
+
 ## Flask
 - [Flask-Large-Application-Example](https://github.com/Robpol86/Flask-Large-Application-Example)
 - [palvin](https://github.com/YukSeungChan/palvin): SQLAlchemy based common models
