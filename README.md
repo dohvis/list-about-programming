@@ -19,12 +19,14 @@
 - [palvin](https://github.com/YukSeungChan/palvin): SQLAlchemy based common models
 - https://github.com/dpgaspar/Flask-AppBuilder
 
+
 ## Source code of web service
 - https://github.com/okjsp/okky
 - https://github.com/discourse/discourse
 - https://github.com/django-oscar/django-oscar
 - https://github.com/awesto/django-shop
 - https://github.com/taigaio/taiga-back
+- https://github.com/heejongahn/hjlog
 
 ## React DEMO
 - https://github.com/react-native-material-design/demo-app
@@ -42,3 +44,8 @@
 ## Just For Fun
 - https://github.com/NARKOZ/hacker-scripts
  
+ ## Compiler & PL
+- https://www.tutorialspoint.com//assembly_programming/index.htm
+- https://www.tutorialspoint.com/compiler_design/index.asp
+- https://www.tutorialspoint.com/compiler_design/
+- http://parsingintro.sourceforge.net/
