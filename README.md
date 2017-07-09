@@ -44,6 +44,11 @@
 ## Just For Fun
 - https://github.com/NARKOZ/hacker-scripts
  
+## MongoDB
+- https://www.tutorialspoint.com/mongodb/mongodb_relationships.htm
+- brew cask mongodb-compass # Mongodb client. maybe useful with ssh tunneling
+
+ 
  ## Compiler & PL
 - https://www.tutorialspoint.com//assembly_programming/index.htm
 - https://www.tutorialspoint.com/compiler_design/index.asp
