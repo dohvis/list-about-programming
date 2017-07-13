@@ -5,7 +5,7 @@
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 - [roboking](https://github.com/tonix0114/roboking): Firmware unpacker
-
+- https://stackoverflow.com/questions/209534/how-to-highlight-and-color-gdb-output-during-interactive-debugging
 
 ## Machine Learning
 - [TensorFlow-Tutorials](https://github.com/golbin/TensorFlow-Tutorials): 텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다
@@ -54,6 +54,3 @@
 - https://www.tutorialspoint.com/compiler_design/index.asp
 - https://www.tutorialspoint.com/compiler_design/
 - http://parsingintro.sourceforge.net/
-
-## GDB
-https://stackoverflow.com/questions/209534/how-to-highlight-and-color-gdb-output-during-interactive-debugging
