@@ -54,3 +54,6 @@
 - https://www.tutorialspoint.com/compiler_design/index.asp
 - https://www.tutorialspoint.com/compiler_design/
 - http://parsingintro.sourceforge.net/
+
+## GDB
+https://stackoverflow.com/questions/209534/how-to-highlight-and-color-gdb-output-during-interactive-debugging
