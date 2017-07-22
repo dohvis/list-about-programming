@@ -57,3 +57,7 @@
 
 ## Tutorial
 - https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091
+
+## Data Visualization
+- https://github.com/getredash/redash
+- https://github.com/plotly/dash
