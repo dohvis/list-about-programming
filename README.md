@@ -17,6 +17,7 @@
 ## Flask
 - [Flask-Large-Application-Example](https://github.com/Robpol86/Flask-Large-Application-Example)
 - [palvin](https://github.com/YukSeungChan/palvin): SQLAlchemy based common models
+- [Flask simple but awesome structure](https://github.com/davidism/basic_flask)
 - https://github.com/dpgaspar/Flask-AppBuilder
 
 
