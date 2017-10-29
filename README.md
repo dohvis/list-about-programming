@@ -29,8 +29,10 @@
 - https://github.com/taigaio/taiga-back
 - https://github.com/heejongahn/hjlog
 
-## Article about React
+## React
 - [React 애플리케이션 아키텍처 - 아무도 알려주지 않아서 혼자서 삽질했다.](https://www.slideshare.net/byungdaesohn/react-76078368)
+- https://github.com/react-native-training
+
 ## React DEMO
 - https://github.com/react-native-material-design/demo-app
 - https://github.com/h87kg/NavigatorDemo
