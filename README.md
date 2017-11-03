@@ -32,6 +32,7 @@
 ## React
 - [React 애플리케이션 아키텍처 - 아무도 알려주지 않아서 혼자서 삽질했다.](https://www.slideshare.net/byungdaesohn/react-76078368)
 - https://github.com/react-native-training
+- [한국어로 배우는 리액트](https://github.com/reactkr/learn-react-in-korean)
 
 ## React DEMO
 - https://github.com/react-native-material-design/demo-app
